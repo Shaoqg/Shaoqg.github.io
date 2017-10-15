@@ -13,12 +13,7 @@ $(document).ready(function(){
       mp3:"i2.mp3",
       //oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
       poster: "images/2.jpg"
-    },{
-      title:"Bubble",
-      m4a: "Miaow-07-Bubble.m4a",
-      oga: "Miaow-07-Bubble.ogg",
-      poster: "images/3.jpg"
-  }];
+    },];
   
   var cssSelector = {
     jPlayer: "#jquery_jplayer",
