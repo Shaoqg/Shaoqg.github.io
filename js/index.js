@@ -2,8 +2,8 @@ $(document).ready(function(){
 
 
   var playlist = [{
-      title:"Hidden",
-      artist:"Miaow",
+      title:"Hello",
+      artist:"adele",
       mp3:"i1.mp3",
       //oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
       poster: "images/1.jpg"
